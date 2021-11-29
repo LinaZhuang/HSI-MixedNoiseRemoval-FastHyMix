@@ -11,8 +11,8 @@
 % 
 %% Description:
 % 
-% Demo_FastHyMix.m                                       ---- main script reproducing the denoising results published in the paper
-% FastHyMix.m                                                  ---- denoising algorithm FastHyMix
+% Demo_FastHyMix.m                           ---- main script reproducing the denoising results published in the paper
+% FastHyMix.m                                ---- denoising algorithm FastHyMix
 % img_clean_dc.mat & img_clean_pavia.mat     ---- Simulated clean datasets
 % 
 % 
